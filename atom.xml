@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mytinfeng.github.io</id>
-    <title>听风小破站</title>
-    <updated>2020-06-18T01:45:27.956Z</updated>
+    <title>听风&apos;Blog</title>
+    <updated>2020-06-18T01:50:11.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mytinfeng.github.io"/>
     <link rel="self" href="https://mytinfeng.github.io/atom.xml"/>
     <subtitle>哪有什么烂道理，值得就继续</subtitle>
     <logo>https://mytinfeng.github.io/images/avatar.png</logo>
     <icon>https://mytinfeng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 听风小破站</rights>
+    <rights>All rights reserved 2020, 听风&apos;Blog</rights>
     <entry>
         <title type="html"><![CDATA[嘿，我的第一篇文章]]></title>
         <id>https://mytinfeng.github.io/mo-wo-de-di-yi-pian-wen-zhang/</id>
         <link href="https://mytinfeng.github.io/mo-wo-de-di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-06-17T07:27:32.000Z</updated>
-        <content type="html"><![CDATA[<p>这是我创作之后的第一篇文章😁</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
@@ -25,7 +23,5 @@
         <link href="https://mytinfeng.github.io/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>👏  本博客由 <strong>Gridea</strong>程序搭建 ！</p>
-]]></content>
     </entry>
 </feed>
