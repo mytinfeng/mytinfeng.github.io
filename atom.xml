@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://54.tf</id>
     <title>听风&apos;Blog</title>
-    <updated>2020-06-18T03:22:23.848Z</updated>
+    <updated>2020-06-18T03:26:29.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://54.tf"/>
     <link rel="self" href="http://54.tf/atom.xml"/>
@@ -12,15 +12,15 @@
     <rights>All rights reserved 2020, 听风&apos;Blog</rights>
     <entry>
         <title type="html"><![CDATA[嘿，我的第一篇文章]]></title>
-        <id>http://54.tf/1.html/</id>
-        <link href="http://54.tf/1.html/">
+        <id>http://54.tf/post/1.html/</id>
+        <link href="http://54.tf/post/1.html/">
         </link>
         <updated>2020-06-17T07:27:32.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://54.tf/hello-gridea/</id>
-        <link href="http://54.tf/hello-gridea/">
+        <id>http://54.tf/post/hello-gridea/</id>
+        <link href="http://54.tf/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
     </entry>
